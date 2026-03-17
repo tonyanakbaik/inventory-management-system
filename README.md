@@ -32,7 +32,7 @@ This project allows users to manage products, track stock, and monitor inventory
 ## 📷 Preview
 
 ### Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](dasboard.png)
 
 ### Add Product
 ![Add Product](add-product.png)
